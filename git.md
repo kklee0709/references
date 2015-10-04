@@ -4,4 +4,4 @@
 
 - [Git Basic Workflow with GitHub: Command Reference](https://www.udemy.com/git-started-with-github/learn/#/lecture/2919116) 
 - [git - the simple guide](https://rogerdudler.github.io/git-guide/index.html)
-- [git - °£Æí¾È³»¼­](https://rogerdudler.github.io/git-guide/index.ko.html)
+- [git - ê°„íŽ¸ì•ˆë‚´ì„œ](https://rogerdudler.github.io/git-guide/index.ko.html)
