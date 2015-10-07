@@ -4,6 +4,10 @@
 Why AngularJS? HTML is great for declaring static documents, but it falters when we try to use it for declaring dynamic views in web-applications. AngularJS lets you extend HTML vocabulary for your application. The resulting environment is extraordinarily expressive, readable, and quick to develop. 
 [View on GitHub](https://github.com/angular/angular.js)
 
+
+## [Angular.js Tutorial by Google](https://docs.angularjs.org/tutorial) : PhoneCat Tutorial App
+A great way to get introduced to AngularJS is to work through this tutorial, which walks you through the construction of an AngularJS web app. 
+
 ## udemy course : [Learn and Understand AngularJS](https://www.udemy.com/learn-angularjs/) : Master AngularJS and the Javascript concepts behind it, design custom directives, and build a single page application. 
 This course will get you up and running quickly, and teach you the core knowledge you need to deeply understand and build AngularJS applications - and we'll build a single page application along the way. 
 
